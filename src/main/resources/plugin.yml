@@ -1,0 +1,8 @@
+name: Battlelog
+version: '${project.version}'
+main: com.bencrow11.battlelog.Battlelog
+api-version: 1.16
+authors: [ bencrow11 ]
+description: A plugin for logging Pixelmon gym battles
+commands:
+  logbattle:
